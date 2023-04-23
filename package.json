@@ -1,0 +1,22 @@
+{
+  "name": "@rajesh-pandian-1988/learning-to-package",
+  "version": "1.0.1",
+  "description": "Thie repository is to learn NPM packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "url": "https://github.com/rajesh-pandian-1988/learning-to-package.git"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-pandian-1988/learning-to-package/issues"
+  },
+  "homepage": "https://github.com/rajesh-pandian-1988/learning-to-package#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "lodash": "^4.17.21"
+  }
+}
