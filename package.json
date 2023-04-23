@@ -1,6 +1,6 @@
 {
   "name": "@rajesh-pandian-1988/learning-to-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Thie repository is to learn NPM packages",
   "main": "index.js",
   "scripts": {
